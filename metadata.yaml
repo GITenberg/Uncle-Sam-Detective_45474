@@ -1,0 +1,41 @@
+_repo: Uncle-Sam-Detective_45474
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Megargee, S. Edwin
+    gutenberg_agent_id: '43305'
+    url: http://www.gutenberg.org/2009/agents/43305
+covers:
+- cover_type: archival
+  image_path: 45474-h/images/cover.jpg
+creator:
+  author:
+    agent_name: DuPuy, William Atherton
+    alias: Puy, William Atherton Du
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '43306'
+    url: http://www.gutenberg.org/2009/agents/43306
+description: ''
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45474'
+  lccn: '16016259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- United States -- Fiction'
+- !lcsh 'Criminal investigation -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States Bureau of Investigation -- Fiction'
+- !lcsh 'Detective and mystery stories'
+tableOfContents: Introduction -- The conscience of the Cumberlands -- The bank wrecker
+  -- A fiasco in firearms -- The sugar samples -- The psychological sleuth -- "Roping"
+  the smugglers of Jamaica -- A bank case from the outside -- Behind customs screens
+  -- With the revolution makers -- The elusive fugitive -- The bank bookkeeper --
+  Putting up the master bluff.
+title: Uncle Sam, Detective
+url: http://www.gutenberg.org/ebooks/45474
